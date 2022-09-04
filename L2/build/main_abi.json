@@ -1,0 +1,24 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "_l1_contract_address",
+                "type": "felt"
+            }
+        ],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    },
+    {
+        "inputs": [
+            {
+                "name": "user_l1_address",
+                "type": "felt"
+            }
+        ],
+        "name": "create_l1_nft_message",
+        "outputs": [],
+        "type": "function"
+    }
+]
