@@ -8,3 +8,6 @@ libs_path = "lib"
 main_ex1 = [
     "src/ex1.cairo",
 ]
+main_ex4 = [
+    "src/ex4.cairo",
+]

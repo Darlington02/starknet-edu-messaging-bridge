@@ -1,0 +1,21 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "from_address",
+                "type": "felt"
+            },
+            {
+                "name": "l2ReceiverContract",
+                "type": "felt"
+            },
+            {
+                "name": "rand_value",
+                "type": "felt"
+            }
+        ],
+        "name": "deposit",
+        "outputs": [],
+        "type": "l1_handler"
+    }
+]
