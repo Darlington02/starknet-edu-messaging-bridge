@@ -1,0 +1,151 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/darlingtonnnam/Desktop/programming/Blockchain/Projects/cairo/MessagingBridge/L1/contracts/EX2.sol": {
+      "lastModificationDate": 1662336805203,
+      "contentHash": "7932ed2bc3e758ffe59c91e2ee706700",
+      "sourceName": "contracts/EX2.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IStarknetCore.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "L2Messaging"
+      ]
+    },
+    "/Users/darlingtonnnam/Desktop/programming/Blockchain/Projects/cairo/MessagingBridge/L1/contracts/IStarknetCore.sol": {
+      "lastModificationDate": 1662336223802,
+      "contentHash": "6ca68ae9dbc5fa5268c70eea2f2505b1",
+      "sourceName": "contracts/IStarknetCore.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.14"
+      ],
+      "artifacts": [
+        "IStarknetCore"
+      ]
+    },
+    "/Users/darlingtonnnam/Desktop/programming/Blockchain/Projects/cairo/MessagingBridge/L1/contracts/Stake.sol": {
+      "lastModificationDate": 1662335858694,
+      "contentHash": "d7604b341bd219f79b9232a76511e0e7",
+      "sourceName": "contracts/Stake.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IStarknetCore.sol"
+      ],
+      "versionPragmas": [
+        "0.8.14"
+      ],
+      "artifacts": [
+        "Stake"
+      ]
+    },
+    "/Users/darlingtonnnam/Desktop/programming/Blockchain/Projects/cairo/MessagingBridge/L1/contracts/EX3.sol": {
+      "lastModificationDate": 1662341468391,
+      "contentHash": "c1d354f98bca8a6ed9d550eafce30a72",
+      "sourceName": "contracts/EX3.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IStarknetCore.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.14"
+      ],
+      "artifacts": [
+        "L1Consumption"
+      ]
+    }
+  }
+}
