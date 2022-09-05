@@ -1,0 +1,3 @@
+[submodule "cairo_lang"]
+	url = https://github.com/starkware-libs/cairo-lang
+	path = L2/lib/cairo_lang
