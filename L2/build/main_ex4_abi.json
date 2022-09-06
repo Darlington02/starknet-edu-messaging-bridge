@@ -2,6 +2,29 @@
     {
         "inputs": [
             {
+                "name": "_address",
+                "type": "felt"
+            }
+        ],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    },
+    {
+        "inputs": [],
+        "name": "l1_assigned_var",
+        "outputs": [
+            {
+                "name": "assigned_var",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
                 "name": "from_address",
                 "type": "felt"
             },
@@ -10,7 +33,7 @@
                 "type": "felt"
             }
         ],
-        "name": "deposit",
+        "name": "set_rand_value",
         "outputs": [],
         "type": "l1_handler"
     }
