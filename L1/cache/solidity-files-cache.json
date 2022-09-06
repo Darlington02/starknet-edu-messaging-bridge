@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/darlingtonnnam/Desktop/programming/Blockchain/Projects/cairo/MessagingBridge/L1/contracts/EX2.sol": {
-      "lastModificationDate": 1662336805203,
-      "contentHash": "7932ed2bc3e758ffe59c91e2ee706700",
+      "lastModificationDate": 1662420142275,
+      "contentHash": "07bdbb6c0ceb2bd036211451602e83dd",
       "sourceName": "contracts/EX2.sol",
       "solcConfig": {
         "version": "0.8.14",
@@ -28,13 +28,12 @@
           }
         }
       },
-      "imports": [
-        "./IStarknetCore.sol"
-      ],
+      "imports": [],
       "versionPragmas": [
         "^0.8.14"
       ],
       "artifacts": [
+        "IStarknetCore",
         "L2Messaging"
       ]
     },
